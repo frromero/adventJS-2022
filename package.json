@@ -1,0 +1,31 @@
+{
+  "name": "advent-js-2022",
+  "version": "1.0.0",
+  "description": "Repositorio donde estoy subiendo los retos de [Advent JS](https://adventjs.dev/)",
+  "main": "challenge01.js",
+  "scripts": {
+    "test": "jest",
+    "test:1": "jest -i challenges/challenge01/challenge01.test.js",
+    "test:2": "jest -i challenges/challenge02/challenge02.test.js",
+    "test:3": "jest -i challenges/challenge03/challenge03.test.js",
+    "test:4": "jest -i challenges/challenge04/challenge04.test.js",
+    "test:5": "jest -i challenges/challenge05/challenge05.test.js",
+    "test:6": "jest -i challenges/challenge06/challenge06.test.js",
+    "test:7": "jest -i challenges/challenge07/challenge07.test.js",
+    "test:8": "jest -i challenges/challenge08/challenge08.test.js",
+    "test:9": "jest -i challenges/challenge09/challenge09.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frromero/adventJS-2022.git"
+  },
+  "author": "frromero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frromero/adventJS-2022/issues"
+  },
+  "homepage": "https://github.com/frromero/adventJS-2022#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
