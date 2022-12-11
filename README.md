@@ -18,6 +18,7 @@ Plantilla para el proyecto cogida de [Achalogy](https://github.com/Achalogy/adve
 | 07  |           Haciendo inventario de regalos          |       🟢       | [Ver](https://adventjs.dev/challenges/2022/7)  | [Spoiler](./challenges/challenge07) |       200      |
 | 08  |              ¡Necesitamos un mecánico!            |       🟠       | [Ver](https://adventjs.dev/challenges/2022/8)  | [Spoiler](./challenges/challenge08) |       260      |
 | 09  |             Las locas luces de Navidad            |       🟢       | [Ver](https://adventjs.dev/challenges/2022/9)  | [Spoiler](./challenges/challenge09) |       20       |
+| 10  |          El salto del trineo de Papá Noel         |       🟢       | [Ver](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/challenge10) |       10       |
 
 [^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
 [^2]: **Puntos**: Los retos son puntuados dependiendo de la calidad de la solución, utilizando diferentes factores como la complejidad cognitiva y la velocidad de ejecución. El número de líneas no es un factor determinante.
