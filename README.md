@@ -21,6 +21,7 @@ Plantilla para el proyecto cogida de [Achalogy](https://github.com/Achalogy/adve
 | 10  |          El salto del trineo de Papá Noel         |       🟠       | [Ver](https://adventjs.dev/challenges/2022/10) | [Spoiler](./challenges/challenge10) |       10       |
 | 11  |              Papá Noel es Scrum Master            |       🔴       | [Ver](https://adventjs.dev/challenges/2022/11) | [Spoiler](./challenges/challenge11) |                |
 | 12  |              Trineos eléctricos, ¡guau!           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/challenge12) |       360      |
+| 12  |         Backup de los archivos de Papá Noel       |       🟠       | [Ver](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/challenge13) |       300      |
 
 [^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
 [^2]: **Puntos**: Los retos son puntuados dependiendo de la calidad de la solución, utilizando diferentes factores como la complejidad cognitiva y la velocidad de ejecución. El número de líneas no es un factor determinante.
