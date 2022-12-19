@@ -23,9 +23,10 @@ Plantilla para el proyecto cogida de [Achalogy](https://github.com/Achalogy/adve
 | 12  |              Trineos eléctricos, ¡guau!           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/12) | [Spoiler](./challenges/challenge12) |       360      |
 | 13  |         Backup de los archivos de Papá Noel       |       🟢       | [Ver](https://adventjs.dev/challenges/2022/13) | [Spoiler](./challenges/challenge13) |       300      |
 | 14  |                   El mejor camino                 |       🟠       | [Ver](https://adventjs.dev/challenges/2022/14) | [Spoiler](./challenges/challenge14) |                |
-| 15  |         	Decorando el árbol de Navidad         |       🟠       | [Ver](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/challenge15) |                |
+| 15  |         	Decorando el árbol de Navidad           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/15) | [Spoiler](./challenges/challenge15) |                |
 | 16  |         Arreglando las cartas de Papá Noel        |       🔴       | [Ver](https://adventjs.dev/challenges/2022/16) | [Spoiler](./challenges/challenge16) |                |
-| 17  |         	Llevando los regalos en sacos         |       🟠       | [Ver](https://adventjs.dev/challenges/2022/17) | [Spoiler](./challenges/challenge17) |                |
+| 17  |         	Llevando los regalos en sacos           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/17) | [Spoiler](./challenges/challenge17) |                |
+| 18  |            	¡Nos quedamos sin tinta!              |       🟢       | [Ver](https://adventjs.dev/challenges/2022/18) | [Spoiler](./challenges/challenge18) |       200      |
 
 [^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
 [^2]: **Puntos**: Los retos son puntuados dependiendo de la calidad de la solución, utilizando diferentes factores como la complejidad cognitiva y la velocidad de ejecución. El número de líneas no es un factor determinante.
