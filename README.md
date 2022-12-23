@@ -28,6 +28,8 @@ Plantilla para el proyecto cogida de [Achalogy](https://github.com/Achalogy/adve
 | 17  |         	Llevando los regalos en sacos           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/17) | [Spoiler](./challenges/challenge17) |                |
 | 18  |            	¡Nos quedamos sin tinta!              |       🟢       | [Ver](https://adventjs.dev/challenges/2022/18) | [Spoiler](./challenges/challenge18) |       200      |
 | 19  |             	Ordenando los regalos               |       🟢       | [Ver](https://adventjs.dev/challenges/2022/19) | [Spoiler](./challenges/challenge19) |       300      |
+| 20  |             	Más viajes retadores                |       🔴       | [Ver](https://adventjs.dev/challenges/2022/20) | [Spoiler](./challenges/challenge20) |                |
+| 21  |          	Creando la tabla de regalos             |       🟠       | [Ver](https://adventjs.dev/challenges/2022/21) | [Spoiler](./challenges/challenge21) |                |
 
 [^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
 [^2]: **Puntos**: Los retos son puntuados dependiendo de la calidad de la solución, utilizando diferentes factores como la complejidad cognitiva y la velocidad de ejecución. El número de líneas no es un factor determinante.
